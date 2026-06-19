@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Turtle House Labs # Website name
-baseURL: 'https://shamusc.github.io/thl_website/' # Website URL
+baseURL: 'https://turtlehouselabs.com/' # Website URL
 
 ############################
 ## LANGUAGE
