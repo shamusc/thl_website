@@ -1,0 +1,20 @@
+# Navigation Links
+#   Link a top-level Hugo content section by URL (e.g. `/research/`).
+#   The weight parameter defines the order that the links will appear in.
+
+main:
+  - name: Home
+    url: /
+    weight: 10
+  - name: Research
+    url: /research/
+    weight: 20
+  - name: Projects
+    url: /projects/
+    weight: 30
+  - name: About
+    url: /about/
+    weight: 40
+  - name: Contact
+    url: /contact/
+    weight: 50
